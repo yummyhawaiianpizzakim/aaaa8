@@ -58,6 +58,9 @@ public class HomeFragment extends Fragment implements CheckInCheckOutDialogFragm
     private DocumentReference docRef;
     private DocumentReference bookResRef;
 
+
+
+
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
